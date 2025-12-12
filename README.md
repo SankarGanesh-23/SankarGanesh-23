@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>👋My Self Sankar Ganesh<br>🖥I'm the Java Full Stack developer 👍<br>💫 About Me:<br>🔭 I’m currently working on React Js Projects<br>🌱 I’m currently learning<br>
+👋 Hi, I'm Sankar Ganesh <br><br> About Me:<br><br> 🖥I'm  Java Full Stack developer 👍<br>💫📚 Always learning new technologies  <br>
 
 
 ## 🌐 Socials:
